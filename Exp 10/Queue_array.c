@@ -51,3 +51,4 @@ int main(){
 	}while(d==1);
 	return 0;
 }
+
